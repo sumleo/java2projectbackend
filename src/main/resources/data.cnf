@@ -1,0 +1,3 @@
+dataSource = jdbc:sqlite:D:\\earthquakes-1.sqlite
+dbDriver=org.sqlite.JDBC
+url=https://www.emsc-csem.org/Earthquake/?view=
